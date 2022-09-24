@@ -5,7 +5,7 @@ An open-source color system for designing beautiful, accessible websites and app
 <br />
 
 ## Colors
-Radix Colors provides 15 color scales, designed for `white` foreground text at step `9`.
+Radix Colors provides `15` color scales, designed for `white` foreground text at step `9`.
 
 ### **Tomato**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
@@ -143,4 +143,133 @@ Radix Colors provides 15 color scales, designed for `white` foreground text at s
 <br />
 
 ## Bright Colors
-Radix Colors provides 5 bright scales, designed for `black` foreground text at step `9`.
+Radix Colors provides `5` bright scales, designed for `black` foreground text at step `9`.
+
+<br />
+
+### **Sky**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/sky/light/1.png"></img>#f9feff | <img src="./images/sky/light/2.png"></img>#f1fcff | <img src="./images/sky/light/3.png"></img>#e4f9ff | <img src="./images/sky/light/4.png"></img>#d5f4fd | <img src="./images/sky/light/5.png"></img>#c1ecf9 | <img src="./images/sky/light/6.png"></img>#a4dff1 | <img src="./images/sky/light/7.png"></img>#79cfea | <img src="./images/sky/light/8.png"></img>#2ebde5 | <img src="./images/sky/light/9.png"></img>#68ddfd | <img src="./images/sky/light/10.png"></img>#5fd4f4 | <img src="./images/sky/light/11.png"></img>#0078a1 | <img src="./images/sky/light/12.png"></img>#003242 |
+| **Dark** | <img src="./images/sky/dark/1.png"></img>#0c1820 | <img src="./images/sky/dark/2.png"></img>#071d2a | <img src="./images/sky/dark/3.png"></img>#082636 | <img src="./images/sky/dark/4.png"></img>#082d41 | <img src="./images/sky/dark/5.png"></img>#08354c | <img src="./images/sky/dark/6.png"></img>#083e59 | <img src="./images/sky/dark/7.png"></img>#064b6b | <img src="./images/sky/dark/8.png"></img>#005d85 | <img src="./images/sky/dark/9.png"></img>#68ddfd | <img src="./images/sky/dark/10.png"></img>#8ae8ff | <img src="./images/sky/dark/11.png"></img>#2ec8ee | <img src="./images/sky/dark/12.png"></img>#eaf8ff |
+
+---
+<br />
+
+### **Mint**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/mint/light/1.png"></img>#f9fefd | <img src="./images/mint/light/2.png"></img>#effefa | <img src="./images/mint/light/3.png"></img>#e1fbf4 | <img src="./images/mint/light/4.png"></img>#d2f7ed | <img src="./images/mint/light/5.png"></img>#c0efe3 | <img src="./images/mint/light/6.png"></img>#a5e4d4 | <img src="./images/mint/light/7.png"></img>#7dd4c0 | <img src="./images/mint/light/8.png"></img>#40c4aa | <img src="./images/mint/light/9.png"></img>#70e1c8 | <img src="./images/mint/light/10.png"></img>#69d9c1 | <img src="./images/mint/light/11.png"></img>#147d6f | <img src="./images/mint/light/12.png"></img>#09342e |
+| **Dark** | <img src="./images/mint/dark/1.png"></img>#081917 | <img src="./images/mint/dark/2.png"></img>#05201e | <img src="./images/mint/dark/3.png"></img>#052926 | <img src="./images/mint/dark/4.png"></img>#04312c | <img src="./images/mint/dark/5.png"></img>#033a34 | <img src="./images/mint/dark/6.png"></img>#01453d | <img src="./images/mint/dark/7.png"></img>#00564a | <img src="./images/mint/dark/8.png"></img>#006d5b | <img src="./images/mint/dark/9.png"></img>#70e1c8 | <img src="./images/mint/dark/10.png"></img>#95f3d9 | <img src="./images/mint/dark/11.png"></img>#25d0ab | <img src="./images/mint/dark/12.png"></img>#e7fcf7 |
+
+---
+<br />
+
+### **Lime**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/lime/light/1.png"></img>#fcfdfa | <img src="./images/lime/light/2.png"></img>#f7fcf0 | <img src="./images/lime/light/3.png"></img>#eefadc | <img src="./images/lime/light/4.png"></img>#e4f7c7 | <img src="./images/lime/light/5.png"></img>#d7f2b0 | <img src="./images/lime/light/6.png"></img>#c9e894 | <img src="./images/lime/light/7.png"></img>#b1d16a | <img src="./images/lime/light/8.png"></img>#94ba2c | <img src="./images/lime/light/9.png"></img>#99d52a | <img src="./images/lime/light/10.png"></img>#93c926 | <img src="./images/lime/light/11.png"></img>#5d770d | <img src="./images/lime/light/12.png"></img>#263209 |
+| **Dark** | <img src="./images/lime/dark/1.png"></img>#141807 | <img src="./images/lime/dark/2.png"></img>#181d08 | <img src="./images/lime/dark/3.png"></img>#1e260d | <img src="./images/lime/dark/4.png"></img>#252e0f | <img src="./images/lime/dark/5.png"></img>#2b3711 | <img src="./images/lime/dark/6.png"></img>#344213 | <img src="./images/lime/dark/7.png"></img>#415215 | <img src="./images/lime/dark/8.png"></img>#536716 | <img src="./images/lime/dark/9.png"></img>#99d52a | <img src="./images/lime/dark/10.png"></img>#c4f042 | <img src="./images/lime/dark/11.png"></img>#87be22 | <img src="./images/lime/dark/12.png"></img>#effbdd |
+
+---
+<br />
+
+### **Yellow**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/yellow/light/1.png"></img>#fdfdf9 | <img src="./images/yellow/light/2.png"></img>#fffce8 | <img src="./images/yellow/light/3.png"></img>#fffbd1 | <img src="./images/yellow/light/4.png"></img>#fff8bb | <img src="./images/yellow/light/5.png"></img>#fef2a4 | <img src="./images/yellow/light/6.png"></img>#f9e68c | <img src="./images/yellow/light/7.png"></img>#efd36c | <img src="./images/yellow/light/8.png"></img>#ebbc00 | <img src="./images/yellow/light/9.png"></img>#f5d90a | <img src="./images/yellow/light/10.png"></img>#f7ce00 | <img src="./images/yellow/light/11.png"></img>#946800 | <img src="./images/yellow/light/12.png"></img>#35290f |
+| **Dark** | <img src="./images/yellow/dark/1.png"></img>#1c1500 | <img src="./images/yellow/dark/2.png"></img>#221a00 | <img src="./images/yellow/dark/3.png"></img>#2c2100 | <img src="./images/yellow/dark/4.png"></img>#352800 | <img src="./images/yellow/dark/5.png"></img>#3e3000 | <img src="./images/yellow/dark/6.png"></img>#493c00 | <img src="./images/yellow/dark/7.png"></img>#594a05 | <img src="./images/yellow/dark/8.png"></img>#705e00 | <img src="./images/yellow/dark/9.png"></img>#f5d90a | <img src="./images/yellow/dark/10.png"></img>#ffef5c | <img src="./images/yellow/dark/11.png"></img>#f0c000 | <img src="./images/yellow/dark/12.png"></img>#fffad1 |
+
+---
+<br />
+
+### **Amber**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/amber/light/1.png"></img>#fefdfb | <img src="./images/amber/light/2.png"></img>#fff9ed | <img src="./images/amber/light/3.png"></img>#fff4d5 | <img src="./images/amber/light/4.png"></img>#ffecbc | <img src="./images/amber/light/5.png"></img>#ffe3a2 | <img src="./images/amber/light/6.png"></img>#ffd386 | <img src="./images/amber/light/7.png"></img>#f3ba63 | <img src="./images/amber/light/8.png"></img>#ee9d2b | <img src="./images/amber/light/9.png"></img>#ffb224 | <img src="./images/amber/light/10.png"></img>#ffa01c | <img src="./images/amber/light/11.png"></img>#ad5700 | <img src="./images/amber/light/12.png"></img>#4e2009 |
+| **Dark** | <img src="./images/amber/dark/1.png"></img>#1f1300 | <img src="./images/amber/dark/2.png"></img>#271700 | <img src="./images/amber/dark/3.png"></img>#341c00 | <img src="./images/amber/dark/4.png"></img>#3f2200 | <img src="./images/amber/dark/5.png"></img>#4a2900 | <img src="./images/amber/dark/6.png"></img>#573300 | <img src="./images/amber/dark/7.png"></img>#693f05 | <img src="./images/amber/dark/8.png"></img>#824e00 | <img src="./images/amber/dark/9.png"></img>#ffb224 | <img src="./images/amber/dark/10.png"></img>#ffcb47 | <img src="./images/amber/dark/11.png"></img>#f1a10d | <img src="./images/amber/dark/12.png"></img>#fef3dd |
+
+---
+<br />
+
+## Grays
+Radix Colors provides `6` gray scales.
+
+<br />
+
+### **Gray**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/gray/light/1.png"></img>#fcfcfc | <img src="./images/gray/light/2.png"></img>#f8f8f8 | <img src="./images/gray/light/3.png"></img>#f3f3f3 | <img src="./images/gray/light/4.png"></img>#ededed | <img src="./images/gray/light/5.png"></img>#e8e8e8 | <img src="./images/gray/light/6.png"></img>#e2e2e2 | <img src="./images/gray/light/7.png"></img>#dbdbdb | <img src="./images/gray/light/8.png"></img>#c7c7c7 | <img src="./images/gray/light/9.png"></img>#8f8f8f | <img src="./images/gray/light/10.png"></img>#858585 | <img src="./images/gray/light/11.png"></img>#6f6f6f | <img src="./images/gray/light/12.png"></img>#171717 |
+| **Dark** | <img src="./images/gray/dark/1.png"></img>#161616 | <img src="./images/gray/dark/2.png"></img>#1c1c1c | <img src="./images/gray/dark/3.png"></img>#232323 | <img src="./images/gray/dark/4.png"></img>#282828 | <img src="./images/gray/dark/5.png"></img>#2e2e2e | <img src="./images/gray/dark/6.png"></img>#343434 | <img src="./images/gray/dark/7.png"></img>#3e3e3e | <img src="./images/gray/dark/8.png"></img>#505050 | <img src="./images/gray/dark/9.png"></img>#707070 | <img src="./images/gray/dark/10.png"></img>#7e7e7e | <img src="./images/gray/dark/11.png"></img>#a0a0a0 | <img src="./images/gray/dark/12.png"></img>#ededed |
+
+---
+<br />
+
+### **Mauve**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/mauve/light/1.png"></img>#fdfcfd | <img src="./images/mauve/light/2.png"></img>#f9f8f9 | <img src="./images/mauve/light/3.png"></img>#f4f2f4 | <img src="./images/mauve/light/4.png"></img>#eeedef | <img src="./images/mauve/light/5.png"></img>#e9e8ea | <img src="./images/mauve/light/6.png"></img>#e4e2e4 | <img src="./images/mauve/light/7.png"></img>#dcdbdd | <img src="./images/mauve/light/8.png"></img>#c8c7cb | <img src="./images/mauve/light/9.png"></img>#908e96 | <img src="./images/mauve/light/10.png"></img>#86848d | <img src="./images/mauve/light/11.png"></img>#6f6e77 | <img src="./images/mauve/light/12.png"></img>#1a1523 |
+| **Dark** | <img src="./images/mauve/dark/1.png"></img>#161618 | <img src="./images/mauve/dark/2.png"></img>#1c1c1f | <img src="./images/mauve/dark/3.png"></img>#232326 | <img src="./images/mauve/dark/4.png"></img>#28282c | <img src="./images/mauve/dark/5.png"></img>#2e2e32 | <img src="./images/mauve/dark/6.png"></img>#34343a | <img src="./images/mauve/dark/7.png"></img>#3e3e44 | <img src="./images/mauve/dark/8.png"></img>#504f57 | <img src="./images/mauve/dark/9.png"></img>#706f78 | <img src="./images/mauve/dark/10.png"></img>#7e7d86 | <img src="./images/mauve/dark/11.png"></img>#a09fa6 | <img src="./images/mauve/dark/12.png"></img>#ededef |
+
+---
+<br />
+
+### **Slate**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/slate/light/1.png"></img>#fbfcfd | <img src="./images/slate/light/2.png"></img>#f8f9fa | <img src="./images/slate/light/3.png"></img>#f1f3f5 | <img src="./images/slate/light/4.png"></img>#eceef0 | <img src="./images/slate/light/5.png"></img>#e6e8eb | <img src="./images/slate/light/6.png"></img>#dfe3e6 | <img src="./images/slate/light/7.png"></img>#d7dbdf | <img src="./images/slate/light/8.png"></img>#c1c8cd | <img src="./images/slate/light/9.png"></img>#889096 | <img src="./images/slate/light/10.png"></img>#7e868c | <img src="./images/slate/light/11.png"></img>#687076 | <img src="./images/slate/light/12.png"></img>#11181c |
+| **Dark** | <img src="./images/slate/dark/1.png"></img>#151718 | <img src="./images/slate/dark/2.png"></img>#1a1d1e | <img src="./images/slate/dark/3.png"></img>#202425 | <img src="./images/slate/dark/4.png"></img>#26292b | <img src="./images/slate/dark/5.png"></img>#2b2f31 | <img src="./images/slate/dark/6.png"></img>#313538 | <img src="./images/slate/dark/7.png"></img>#3a3f42 | <img src="./images/slate/dark/8.png"></img>#4c5155 | <img src="./images/slate/dark/9.png"></img>#697177 | <img src="./images/slate/dark/10.png"></img>#787f85 | <img src="./images/slate/dark/11.png"></img>#9ba1a6 | <img src="./images/slate/dark/12.png"></img>#ecedee |
+
+---
+<br />
+
+### **Sage**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/sage/light/1.png"></img>#fbfdfc | <img src="./images/sage/light/2.png"></img>#f8faf9 | <img src="./images/sage/light/3.png"></img>#f1f4f3 | <img src="./images/sage/light/4.png"></img>#ecefed | <img src="./images/sage/light/5.png"></img>#e6e9e8 | <img src="./images/sage/light/6.png"></img>#dfe4e2 | <img src="./images/sage/light/7.png"></img>#d7dcda | <img src="./images/sage/light/8.png"></img>#c2c9c6 | <img src="./images/sage/light/9.png"></img>#8a918e | <img src="./images/sage/light/10.png"></img>#808784 | <img src="./images/sage/light/11.png"></img>#6a716e | <img src="./images/sage/light/12.png"></img>#111c18 |
+| **Dark** | <img src="./images/sage/dark/1.png"></img>#141716 | <img src="./images/sage/dark/2.png"></img>#191d1b | <img src="./images/sage/dark/3.png"></img>#1f2421 | <img src="./images/sage/dark/4.png"></img>#252a27 | <img src="./images/sage/dark/5.png"></img>#2a2f2c | <img src="./images/sage/dark/6.png"></img>#303633 | <img src="./images/sage/dark/7.png"></img>#393f3c | <img src="./images/sage/dark/8.png"></img>#4a524e | <img src="./images/sage/dark/9.png"></img>#66736d | <img src="./images/sage/dark/10.png"></img>#75817b | <img src="./images/sage/dark/11.png"></img>#99a29e | <img src="./images/sage/dark/12.png"></img>#eceeed |
+
+---
+<br />
+
+### **Olive**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/olive/light/1.png"></img>#fcfdfc | <img src="./images/olive/light/2.png"></img>#f8faf8 | <img src="./images/olive/light/3.png"></img>#f2f4f2 | <img src="./images/olive/light/4.png"></img>#ecefec | <img src="./images/olive/light/5.png"></img>#e6e9e6 | <img src="./images/olive/light/6.png"></img>#e0e4e0 | <img src="./images/olive/light/7.png"></img>#d8dcd8 | <img src="./images/olive/light/8.png"></img>#c3c8c2 | <img src="./images/olive/light/9.png"></img>#8b918a | <img src="./images/olive/light/10.png"></img>#818780 | <img src="./images/olive/light/11.png"></img>#6b716a | <img src="./images/olive/light/12.png"></img>#141e12 |
+| **Dark** | <img src="./images/olive/dark/1.png"></img>#151715 | <img src="./images/olive/dark/2.png"></img>#1a1d19 | <img src="./images/olive/dark/3.png"></img>#20241f | <img src="./images/olive/dark/4.png"></img>#262925 | <img src="./images/olive/dark/5.png"></img>#2b2f2a | <img src="./images/olive/dark/6.png"></img>#313530 | <img src="./images/olive/dark/7.png"></img>#3b3f3a | <img src="./images/olive/dark/8.png"></img>#4c514b | <img src="./images/olive/dark/9.png"></img>#687366 | <img src="./images/olive/dark/10.png"></img>#778175 | <img src="./images/olive/dark/11.png"></img>#9aa299 | <img src="./images/olive/dark/12.png"></img>#eceeec |
+
+---
+<br />
+
+### **Sand**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/sand/light/1.png"></img>#fdfdfc | <img src="./images/sand/light/2.png"></img>#f9f9f8 | <img src="./images/sand/light/3.png"></img>#f3f3f2 | <img src="./images/sand/light/4.png"></img>#eeeeec | <img src="./images/sand/light/5.png"></img>#e9e9e6 | <img src="./images/sand/light/6.png"></img>#e3e3e0 | <img src="./images/sand/light/7.png"></img>#dbdbd7 | <img src="./images/sand/light/8.png"></img>#c8c7c1 | <img src="./images/sand/light/9.png"></img>#90908c | <img src="./images/sand/light/10.png"></img>#868682 | <img src="./images/sand/light/11.png"></img>#706f6c | <img src="./images/sand/light/12.png"></img>#1b1b18 |
+| **Dark** | <img src="./images/sand/dark/1.png"></img>#161615 | <img src="./images/sand/dark/2.png"></img>#1c1c1a | <img src="./images/sand/dark/3.png"></img>#232320 | <img src="./images/sand/dark/4.png"></img>#282826 | <img src="./images/sand/dark/5.png"></img>#2e2e2b | <img src="./images/sand/dark/6.png"></img>#353431 | <img src="./images/sand/dark/7.png"></img>#3e3e3a | <img src="./images/sand/dark/8.png"></img>#51504b | <img src="./images/sand/dark/9.png"></img>#717069 | <img src="./images/sand/dark/10.png"></img>#7f7e77 | <img src="./images/sand/dark/11.png"></img>#a1a09a | <img src="./images/sand/dark/12.png"></img>#ededec |
+
+---
+<br />
+
+## Metals
+Radix Colors provides `2` metal scales.
+
+<br />
+
+### **Gold**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/gold/light/1.png"></img>#fdfdfc | <img src="./images/gold/light/2.png"></img>#fbf9f2 | <img src="./images/gold/light/3.png"></img>#f5f2e9 | <img src="./images/gold/light/4.png"></img>#eeeadd | <img src="./images/gold/light/5.png"></img>#e5dfd0 | <img src="./images/gold/light/6.png"></img>#dad1bd | <img src="./images/gold/light/7.png"></img>#cbbda4 | <img src="./images/gold/light/8.png"></img>#b8a383 | <img src="./images/gold/light/9.png"></img>#978365 | <img src="./images/gold/light/10.png"></img>#8c795d | <img src="./images/gold/light/11.png"></img>#776750 | <img src="./images/gold/light/12.png"></img>#3b352b |
+| **Dark** | <img src="./images/gold/dark/1.png"></img>#171613 | <img src="./images/gold/dark/2.png"></img>#1c1a15 | <img src="./images/gold/dark/3.png"></img>#26231c | <img src="./images/gold/dark/4.png"></img>#2e2a21 | <img src="./images/gold/dark/5.png"></img>#353026 | <img src="./images/gold/dark/6.png"></img>#3e382c | <img src="./images/gold/dark/7.png"></img>#504737 | <img src="./images/gold/dark/8.png"></img>#6b5d48 | <img src="./images/gold/dark/9.png"></img>#978365 | <img src="./images/gold/dark/10.png"></img>#a59071 | <img src="./images/gold/dark/11.png"></img>#bfa888 | <img src="./images/gold/dark/12.png"></img>#f7f4e7 |
+
+---
+<br />
+
+### **Bronze**
+|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Light** | <img src="./images/bronze/light/1.png"></img>#fdfcfc | <img src="./images/bronze/light/2.png"></img>#fdf8f6 | <img src="./images/bronze/light/3.png"></img>#f8f1ee | <img src="./images/bronze/light/4.png"></img>#f2e8e4 | <img src="./images/bronze/light/5.png"></img>#eaddd7 | <img src="./images/bronze/light/6.png"></img>#e0cec7 | <img src="./images/bronze/light/7.png"></img>#d1b9b0 | <img src="./images/bronze/light/8.png"></img>#bfa094 | <img src="./images/bronze/light/9.png"></img>#a18072 | <img src="./images/bronze/light/10.png"></img>#977669 | <img src="./images/bronze/light/11.png"></img>#846358 | <img src="./images/bronze/light/12.png"></img>#43302b |
+| **Dark** | <img src="./images/bronze/dark/1.png"></img>#191514 | <img src="./images/bronze/dark/2.png"></img>#1f1917 | <img src="./images/bronze/dark/3.png"></img>#2a211f | <img src="./images/bronze/dark/4.png"></img>#332824 | <img src="./images/bronze/dark/5.png"></img>#3b2e29 | <img src="./images/bronze/dark/6.png"></img>#453530 | <img src="./images/bronze/dark/7.png"></img>#57433c | <img src="./images/bronze/dark/8.png"></img>#74594e | <img src="./images/bronze/dark/9.png"></img>#a18072 | <img src="./images/bronze/dark/10.png"></img>#b08c7d | <img src="./images/bronze/dark/11.png"></img>#cba393 | <img src="./images/bronze/dark/12.png"></img>#f9ede7 |
+
+---
+<br />
