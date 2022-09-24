@@ -1,12 +1,13 @@
 # Radix UI Colors - Table
 
-An open-source UI component library for building high-quality, accessible design systems and web apps.
-
-Radix Primitives is a low-level UI component library with a focus on accessibility, customization and developer experience. You can use these components either as the base layer of your design system, or adopt them incrementally.
+An open-source color system for designing beautiful, accessible websites and apps.
 
 <br />
 
-## **Tomato**
+## Colors
+Radix Colors provides 15 color scales, designed for `white` foreground text at step `9`.
+
+### **Tomato**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/tomato/light/1.png"></img>#fffcfc | <img src="./images/tomato/light/2.png"></img>#fff8f7 | <img src="./images/tomato/light/3.png"></img>#fff0ee | <img src="./images/tomato/light/4.png"></img>#ffe6e2 | <img src="./images/tomato/light/5.png"></img>#fdd8d3 | <img src="./images/tomato/light/6.png"></img>#fac7be | <img src="./images/tomato/light/7.png"></img>#f3b0a2 | <img src="./images/tomato/light/8.png"></img>#ea9280 | <img src="./images/tomato/light/9.png"></img>#e54d2e | <img src="./images/tomato/light/10.png"></img>#db4324 | <img src="./images/tomato/light/11.png"></img>#ca3214 | <img src="./images/tomato/light/12.png"></img>#341711 |
@@ -15,7 +16,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Red**
+### **Red**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/red/light/1.png"></img>#fffcfc | <img src="./images/red/light/2.png"></img>#fff8f8 | <img src="./images/red/light/3.png"></img>#ffefef | <img src="./images/red/light/4.png"></img>#ffe5e5 | <img src="./images/red/light/5.png"></img>#fdd8d8 | <img src="./images/red/light/6.png"></img>#f9c6c6 | <img src="./images/red/light/7.png"></img>#f3aeaf | <img src="./images/red/light/8.png"></img>#eb9091 | <img src="./images/red/light/9.png"></img>#e5484d | <img src="./images/red/light/10.png"></img>#dc3d43 | <img src="./images/red/light/11.png"></img>#cd2b31 | <img src="./images/red/light/12.png"></img>#381316 |
@@ -24,7 +25,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Crimson**
+### **Crimson**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/crimson/light/1.png"></img>#fffcfd | <img src="./images/crimson/light/2.png"></img>#fff7fb | <img src="./images/crimson/light/3.png"></img>#feeff6 | <img src="./images/crimson/light/4.png"></img>#fce5f0 | <img src="./images/crimson/light/5.png"></img>#f9d8e7 | <img src="./images/crimson/light/6.png"></img>#f4c6db | <img src="./images/crimson/light/7.png"></img>#edadc8 | <img src="./images/crimson/light/8.png"></img>#e58fb1 | <img src="./images/crimson/light/9.png"></img>#e93d82 | <img src="./images/crimson/light/10.png"></img>#e03177 | <img src="./images/crimson/light/11.png"></img>#d31e66 | <img src="./images/crimson/light/12.png"></img>#3d0d1d |
@@ -33,7 +34,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Pink**
+### **Pink**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/pink/light/1.png"></img>#fffcfe | <img src="./images/pink/light/2.png"></img>#fff7fc | <img src="./images/pink/light/3.png"></img>#feeef8 | <img src="./images/pink/light/4.png"></img>#fce5f3 | <img src="./images/pink/light/5.png"></img>#f9d8ec | <img src="./images/pink/light/6.png"></img>#f3c6e2 | <img src="./images/pink/light/7.png"></img>#ecadd4 | <img src="./images/pink/light/8.png"></img>#e38ec3 | <img src="./images/pink/light/9.png"></img>#d6409f | <img src="./images/pink/light/10.png"></img>#d23197 | <img src="./images/pink/light/11.png"></img>#cd1d8d | <img src="./images/pink/light/12.png"></img>#3b0a2a |
@@ -42,7 +43,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Plum**
+### **Plum**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/plum/light/1.png"></img>#fefcff | <img src="./images/plum/light/2.png"></img>#fff8ff | <img src="./images/plum/light/3.png"></img>#fceffc | <img src="./images/plum/light/4.png"></img>#f9e5f9 | <img src="./images/plum/light/5.png"></img>#f3d9f4 | <img src="./images/plum/light/6.png"></img>#ebc8ed | <img src="./images/plum/light/7.png"></img>#dfafe3 | <img src="./images/plum/light/8.png"></img>#cf91d8 | <img src="./images/plum/light/9.png"></img>#ab4aba | <img src="./images/plum/light/10.png"></img>#a43cb4 | <img src="./images/plum/light/11.png"></img>#9c2bad | <img src="./images/plum/light/12.png"></img>#340c3b |
@@ -51,7 +52,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Purple**
+### **Purple**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/purple/light/1.png"></img>#fefcfe | <img src="./images/purple/light/2.png"></img>#fdfaff | <img src="./images/purple/light/3.png"></img>#f9f1fe | <img src="./images/purple/light/4.png"></img>#f3e7fc | <img src="./images/purple/light/5.png"></img>#eddbf9 | <img src="./images/purple/light/6.png"></img>#e3ccf4 | <img src="./images/purple/light/7.png"></img>#d3b4ed | <img src="./images/purple/light/8.png"></img>#be93e4 | <img src="./images/purple/light/9.png"></img>#8e4ec6 | <img src="./images/purple/light/10.png"></img>#8445bc | <img src="./images/purple/light/11.png"></img>#793aaf | <img src="./images/purple/light/12.png"></img>#2b0e44 |
@@ -60,7 +61,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Violet**
+### **Violet**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/violet/light/1.png"></img>#fdfcfe | <img src="./images/violet/light/2.png"></img>#fbfaff | <img src="./images/violet/light/3.png"></img>#f5f2ff | <img src="./images/violet/light/4.png"></img>#ede9fe | <img src="./images/violet/light/5.png"></img>#e4defc | <img src="./images/violet/light/6.png"></img>#d7cff9 | <img src="./images/violet/light/7.png"></img>#c4b8f3 | <img src="./images/violet/light/8.png"></img>#aa99ec | <img src="./images/violet/light/9.png"></img>#6e56cf | <img src="./images/violet/light/10.png"></img>#644fc1 | <img src="./images/violet/light/11.png"></img>#5746af | <img src="./images/violet/light/12.png"></img>#20134b |
@@ -69,7 +70,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Indigo**
+### **Indigo**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/indigo/light/1.png"></img>#fdfdfe | <img src="./images/indigo/light/2.png"></img>#f8faff | <img src="./images/indigo/light/3.png"></img>#f0f4ff | <img src="./images/indigo/light/4.png"></img>#e6edfe | <img src="./images/indigo/light/5.png"></img>#d9e2fc | <img src="./images/indigo/light/6.png"></img>#c6d4f9 | <img src="./images/indigo/light/7.png"></img>#aec0f5 | <img src="./images/indigo/light/8.png"></img>#8da4ef | <img src="./images/indigo/light/9.png"></img>#3e63dd | <img src="./images/indigo/light/10.png"></img>#3a5ccc | <img src="./images/indigo/light/11.png"></img>#3451b2 | <img src="./images/indigo/light/12.png"></img>#101d46 |
@@ -78,7 +79,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Blue**
+### **Blue**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/blue/light/1.png"></img>#fbfdff | <img src="./images/blue/light/2.png"></img>#f5faff | <img src="./images/blue/light/3.png"></img>#edf6ff | <img src="./images/blue/light/4.png"></img>#e1f0ff | <img src="./images/blue/light/5.png"></img>#cee7fe | <img src="./images/blue/light/6.png"></img>#b7d9f8 | <img src="./images/blue/light/7.png"></img>#96c7f2 | <img src="./images/blue/light/8.png"></img>#5eb0ef | <img src="./images/blue/light/9.png"></img>#0091ff | <img src="./images/blue/light/10.png"></img>#0081f1 | <img src="./images/blue/light/11.png"></img>#006adc | <img src="./images/blue/light/12.png"></img>#00254d |
@@ -87,7 +88,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Cyan**
+### **Cyan**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/cyan/light/1.png"></img>#fafdfe | <img src="./images/cyan/light/2.png"></img>#f2fcfd | <img src="./images/cyan/light/3.png"></img>#e7f9fb | <img src="./images/cyan/light/4.png"></img>#d8f3f6 | <img src="./images/cyan/light/5.png"></img>#c4eaef | <img src="./images/cyan/light/6.png"></img>#aadee6 | <img src="./images/cyan/light/7.png"></img>#84cdda | <img src="./images/cyan/light/8.png"></img>#3db9cf | <img src="./images/cyan/light/9.png"></img>#05a2c2 | <img src="./images/cyan/light/10.png"></img>#0894b3 | <img src="./images/cyan/light/11.png"></img>#0c7792 | <img src="./images/cyan/light/12.png"></img>#04313c |
@@ -96,7 +97,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Teal**
+### **Teal**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/teal/light/1.png"></img>#fafefd | <img src="./images/teal/light/2.png"></img>#f1fcfa | <img src="./images/teal/light/3.png"></img>#e7f9f5 | <img src="./images/teal/light/4.png"></img>#d9f3ee | <img src="./images/teal/light/5.png"></img>#c7ebe5 | <img src="./images/teal/light/6.png"></img>#afdfd7 | <img src="./images/teal/light/7.png"></img>#8dcec3 | <img src="./images/teal/light/8.png"></img>#53b9ab | <img src="./images/teal/light/9.png"></img>#12a594 | <img src="./images/teal/light/10.png"></img>#0e9888 | <img src="./images/teal/light/11.png"></img>#067a6f | <img src="./images/teal/light/12.png"></img>#10302b |
@@ -105,7 +106,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Green**
+### **Green**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/green/light/1.png"></img>#fbfefc | <img src="./images/green/light/2.png"></img>#f2fcf5 | <img src="./images/green/light/3.png"></img>#e9f9ee | <img src="./images/green/light/4.png"></img>#ddf3e4 | <img src="./images/green/light/5.png"></img>#ccebd7 | <img src="./images/green/light/6.png"></img>#b4dfc4 | <img src="./images/green/light/7.png"></img>#92ceac | <img src="./images/green/light/8.png"></img>#5bb98c | <img src="./images/green/light/9.png"></img>#30a46c | <img src="./images/green/light/10.png"></img>#299764 | <img src="./images/green/light/11.png"></img>#18794e | <img src="./images/green/light/12.png"></img>#153226 |
@@ -114,7 +115,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Grass**
+### **Grass**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/grass/light/1.png"></img>#fbfefb | <img src="./images/grass/light/2.png"></img>#f3fcf3 | <img src="./images/grass/light/3.png"></img>#ebf9eb | <img src="./images/grass/light/4.png"></img>#dff3df | <img src="./images/grass/light/5.png"></img>#ceebcf | <img src="./images/grass/light/6.png"></img>#b7dfba | <img src="./images/grass/light/7.png"></img>#97cf9c | <img src="./images/grass/light/8.png"></img>#65ba75 | <img src="./images/grass/light/9.png"></img>#46a758 | <img src="./images/grass/light/10.png"></img>#3d9a50 | <img src="./images/grass/light/11.png"></img>#297c3b | <img src="./images/grass/light/12.png"></img>#1b311e |
@@ -123,7 +124,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Orange**
+### **Orange**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/orange/light/1.png"></img>#fefcfb | <img src="./images/orange/light/2.png"></img>#fef8f4 | <img src="./images/orange/light/3.png"></img>#fff1e7 | <img src="./images/orange/light/4.png"></img>#ffe8d7 | <img src="./images/orange/light/5.png"></img>#ffdcc3 | <img src="./images/orange/light/6.png"></img>#ffcca7 | <img src="./images/orange/light/7.png"></img>#ffb381 | <img src="./images/orange/light/8.png"></img>#fa934e | <img src="./images/orange/light/9.png"></img>#f76808 | <img src="./images/orange/light/10.png"></img>#ed5f00 | <img src="./images/orange/light/11.png"></img>#bd4b00 | <img src="./images/orange/light/12.png"></img>#451e11 |
@@ -132,7 +133,7 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 ---
 <br />
 
-## **Brown**
+### **Brown**
 |  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Light** | <img src="./images/brown/light/1.png"></img>#fefdfc | <img src="./images/brown/light/2.png"></img>#fcf9f6 | <img src="./images/brown/light/3.png"></img>#f8f1ea | <img src="./images/brown/light/4.png"></img>#f4e9dd | <img src="./images/brown/light/5.png"></img>#efddcc | <img src="./images/brown/light/6.png"></img>#e8cdb5 | <img src="./images/brown/light/7.png"></img>#ddb896 | <img src="./images/brown/light/8.png"></img>#d09e72 | <img src="./images/brown/light/9.png"></img>#ad7f58 | <img src="./images/brown/light/10.png"></img>#a07653 | <img src="./images/brown/light/11.png"></img>#886349 | <img src="./images/brown/light/12.png"></img>#3f2c22 |
@@ -140,3 +141,6 @@ Radix Primitives is a low-level UI component library with a focus on accessibili
 
 ---
 <br />
+
+## Bright Colors
+Radix Colors provides 5 bright scales, designed for `black` foreground text at step `9`.
